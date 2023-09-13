@@ -10,15 +10,15 @@
 
 
 ## Specialization Curriculum
-+ ### [Course_1_Guided_Tour_of_Machine_Learning_in_Finance](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/tree/main/Course_1_Introduction%20to%20Portfolio%20Construction%20and%20Analysis%20with%20Python)
-+ ### [Course_2_Fundamentals_of_Machine_Learning_in_Finance](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/tree/main/Course_2_Advanced%20Portfolio%20Construction%20and%20Analysis%20with%20Python)
-+ ### [Course_3_Reinforcement_Learning_in_Finance](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/tree/main/Course_3_Python%20and%20Machine%20Learning%20for%20Asset%20Management)
-+ ### [Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/tree/main/Course_4_Python%20and%20Machine-Learning%20for%20Asset%20Management%20with%20Alternative%20Data%20Sets)
++ ### [Course_1_Guided_Tour_of_Machine_Learning_in_Finance](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_1_Guided_Tour_of_Machine_Learning_in_Finance)
++ ### [Course_2_Fundamentals_of_Machine_Learning_in_Finance](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_2_Fundamentals_of_Machine_Learning_in_Finance)
++ ### [Course_3_Reinforcement_Learning_in_Finance](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_3_Reinforcement_Learning_in_Finance)
++ ### [Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/tree/main/Course_4_Overview_of_Advanced_Methods_of_Reinforcement_Learning_in_Finance)
 
 ## Explore More
 Certificate link: https://www.coursera.org/account/accomplishments/specialization/EHAGCRMTAYSE
 
-![Certificate](https://github.com/ktchan33GBC/Investment_Management_with_Python_and_Machine_Learning/blob/main/img/Specialization_Certificate_Coursera_Investment%20Management%20with%20Python%20and%20Machine%20Learning%20Specialization.jpg)
+![Certificate](https://github.com/ktchan33GBC/Machine-Learning-and-Reinforcement-Learning-in-Finance-Specialization-New-York-University/blob/main/img/Specialization_Certificate_Coursera_Machine%20Learning%20and%20Reinforcement%20Learning%20in%20Finance.jpg)
 
 <!-- USAGE EXAMPLES -->
 
